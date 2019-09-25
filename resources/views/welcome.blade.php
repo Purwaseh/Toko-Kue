@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Toko kue kita
+                  ASEH ISEH MUMET
                 </div>
 
                 <div class="links">
