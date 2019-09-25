@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Toko kue
+                    Toko kue kita
                 </div>
 
                 <div class="links">
