@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    toko kue
+                    Atika Fanda 
                 </div>
 
                 <div class="links">
